@@ -1,0 +1,57 @@
+[
+{
+  "name":"tv-5.Main",
+  "allPublicMethods":true
+},
+{
+  "name":"com.fasterxml.jackson.databind.ext.Java7SupportImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.String[]"
+},
+{
+  "name":"java.lang.Thread",
+  "allPublicMethods":true
+},
+{
+  "name":"org.refcodes.logger.RuntimeLoggerFactoryImpl",
+  "allPublicMethods":true
+},
+{
+  "name":"org.refcodes.logger.RuntimeLoggerFactorySingleton",
+  "allPublicMethods":true
+},
+{
+  "name":"org.refcodes.logger.RuntimeLoggerImpl",
+  "allDeclaredFields":true,
+  "allDeclaredMethods":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.refcodes.logger.alt.console.ConsoleLoggerSingleton",
+  "allDeclaredFields":true,
+  "allDeclaredMethods":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.refcodes.properties.ext.runtime.RuntimePropertiesImpl",
+  "allPublicMethods":true
+},
+{
+  "name":"org.refcodes.runtime.RuntimeUtility",
+  "allPublicMethods":true
+},
+{
+  "name":"org.refcodes.runtime.SystemContext",
+  "allPublicMethods":true
+},
+{
+  "name":"sun.awt.X11FontManager",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.java2d.marlin.DMarlinRenderingEngine",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+}
+]

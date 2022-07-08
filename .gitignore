@@ -1,0 +1,10 @@
+**/target/
+**/.settings/
+**/.classpath
+**/.project
+**/bundle
+**/.bundle
+**/*warp-packer*
+**/*~
+**/*.bak
+**/dependency-reduced-pom.xml
